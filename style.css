@@ -1,7 +1,11 @@
 html
 h1{text-align:center;color:navy;}
 p{color:#0034hh}
-body {background-color:aqua;border:6px solid maroon;border-radius:25px;}
+body {background-color:aqua;border:4px solid maroon;border-radius:8px;}
+ul {list-style-type:none;}
+li {display:inline;
+    padding:10px;
+   }
 marquee{color:red;font-family:times new roman}
   height: 100%;
   background: 50% 50% no-repeat
