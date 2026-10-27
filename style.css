@@ -1,8 +1,7 @@
-html
-h1{text-align:center;
+
+h1 {text-align:center;
    color:navy;
-    border: 2px;
-   dashed light green;
+    
 }
 
 p{color:#0034hh;}
@@ -11,9 +10,11 @@ body {background-color:aqua;
       border:4 px solid maroon;
       border-radius:8 px;
       height: 100 %;
-  background: 50 % 50 % no-repeat}
+        background: 50 % 50 % no-repeat;}
 
-ul {list-style-type:none;}
+ul {list-style-type:none;
+   border: 2 px solid yellow;
+   dashed light green;}
 
 li {display:inline;
     padding:10 px;}
